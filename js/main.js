@@ -272,5 +272,6 @@ $(document).ready(function($) {
 			 modal.style.display = "none";
 		 }
 	 };
+	 
 });
 
